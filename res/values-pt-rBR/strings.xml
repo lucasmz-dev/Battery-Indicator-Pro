@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string formatted="false" name="settings_activity_subtitle">Settings</string>
+  <string formatted="false" name="settings_activity_subtitle">Configurações</string>
   <string formatted="false" name="help_activity_subtitle">Ajuda do BatteryBot</string>
   <string formatted="false" name="log_view_activity_subtitle">Registros</string>
 
